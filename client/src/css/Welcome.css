@@ -1,0 +1,9 @@
+.WelcomeContainer {
+  width: 100vw;
+  height: 100vh;
+  background-size: cover;
+  background-image: url("../imgs/bg.jpg");
+  background-repeat: no-repeat;
+  position: relative;
+  top: 0%;
+}
